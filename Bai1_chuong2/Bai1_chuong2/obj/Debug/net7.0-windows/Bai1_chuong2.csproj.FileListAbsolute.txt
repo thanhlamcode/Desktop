@@ -1,0 +1,16 @@
+C:\Users\dtlam\OneDrive\Documents\Desktop\Bai1_chuong2\Bai1_chuong2\bin\Debug\net7.0-windows\Bai1_chuong2.exe
+C:\Users\dtlam\OneDrive\Documents\Desktop\Bai1_chuong2\Bai1_chuong2\bin\Debug\net7.0-windows\Bai1_chuong2.deps.json
+C:\Users\dtlam\OneDrive\Documents\Desktop\Bai1_chuong2\Bai1_chuong2\bin\Debug\net7.0-windows\Bai1_chuong2.runtimeconfig.json
+C:\Users\dtlam\OneDrive\Documents\Desktop\Bai1_chuong2\Bai1_chuong2\bin\Debug\net7.0-windows\Bai1_chuong2.dll
+C:\Users\dtlam\OneDrive\Documents\Desktop\Bai1_chuong2\Bai1_chuong2\bin\Debug\net7.0-windows\Bai1_chuong2.pdb
+C:\Users\dtlam\OneDrive\Documents\Desktop\Bai1_chuong2\Bai1_chuong2\obj\Debug\net7.0-windows\Bai1_chuong2.Form1.resources
+C:\Users\dtlam\OneDrive\Documents\Desktop\Bai1_chuong2\Bai1_chuong2\obj\Debug\net7.0-windows\Bai1_chuong2.csproj.GenerateResource.cache
+C:\Users\dtlam\OneDrive\Documents\Desktop\Bai1_chuong2\Bai1_chuong2\obj\Debug\net7.0-windows\Bai1_chuong2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtlam\OneDrive\Documents\Desktop\Bai1_chuong2\Bai1_chuong2\obj\Debug\net7.0-windows\Bai1_chuong2.AssemblyInfoInputs.cache
+C:\Users\dtlam\OneDrive\Documents\Desktop\Bai1_chuong2\Bai1_chuong2\obj\Debug\net7.0-windows\Bai1_chuong2.AssemblyInfo.cs
+C:\Users\dtlam\OneDrive\Documents\Desktop\Bai1_chuong2\Bai1_chuong2\obj\Debug\net7.0-windows\Bai1_chuong2.csproj.CoreCompileInputs.cache
+C:\Users\dtlam\OneDrive\Documents\Desktop\Bai1_chuong2\Bai1_chuong2\obj\Debug\net7.0-windows\Bai1_chuong2.dll
+C:\Users\dtlam\OneDrive\Documents\Desktop\Bai1_chuong2\Bai1_chuong2\obj\Debug\net7.0-windows\refint\Bai1_chuong2.dll
+C:\Users\dtlam\OneDrive\Documents\Desktop\Bai1_chuong2\Bai1_chuong2\obj\Debug\net7.0-windows\Bai1_chuong2.pdb
+C:\Users\dtlam\OneDrive\Documents\Desktop\Bai1_chuong2\Bai1_chuong2\obj\Debug\net7.0-windows\Bai1_chuong2.genruntimeconfig.cache
+C:\Users\dtlam\OneDrive\Documents\Desktop\Bai1_chuong2\Bai1_chuong2\obj\Debug\net7.0-windows\ref\Bai1_chuong2.dll

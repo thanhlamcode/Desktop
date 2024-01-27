@@ -1,0 +1,16 @@
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\bai5_chuong3\bai5_chuong3\bin\Debug\net6.0-windows\bai5_chuong3.exe
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\bai5_chuong3\bai5_chuong3\bin\Debug\net6.0-windows\bai5_chuong3.deps.json
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\bai5_chuong3\bai5_chuong3\bin\Debug\net6.0-windows\bai5_chuong3.runtimeconfig.json
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\bai5_chuong3\bai5_chuong3\bin\Debug\net6.0-windows\bai5_chuong3.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\bai5_chuong3\bai5_chuong3\bin\Debug\net6.0-windows\bai5_chuong3.pdb
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\bai5_chuong3\bai5_chuong3\obj\Debug\net6.0-windows\bai5_chuong3.Form1.resources
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\bai5_chuong3\bai5_chuong3\obj\Debug\net6.0-windows\bai5_chuong3.csproj.GenerateResource.cache
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\bai5_chuong3\bai5_chuong3\obj\Debug\net6.0-windows\bai5_chuong3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\bai5_chuong3\bai5_chuong3\obj\Debug\net6.0-windows\bai5_chuong3.AssemblyInfoInputs.cache
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\bai5_chuong3\bai5_chuong3\obj\Debug\net6.0-windows\bai5_chuong3.AssemblyInfo.cs
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\bai5_chuong3\bai5_chuong3\obj\Debug\net6.0-windows\bai5_chuong3.csproj.CoreCompileInputs.cache
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\bai5_chuong3\bai5_chuong3\obj\Debug\net6.0-windows\bai5_chuong3.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\bai5_chuong3\bai5_chuong3\obj\Debug\net6.0-windows\refint\bai5_chuong3.dll
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\bai5_chuong3\bai5_chuong3\obj\Debug\net6.0-windows\bai5_chuong3.pdb
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\bai5_chuong3\bai5_chuong3\obj\Debug\net6.0-windows\bai5_chuong3.genruntimeconfig.cache
+C:\Users\dtlam\OneDrive\Documents\A Code\Winform\bai5_chuong3\bai5_chuong3\obj\Debug\net6.0-windows\ref\bai5_chuong3.dll

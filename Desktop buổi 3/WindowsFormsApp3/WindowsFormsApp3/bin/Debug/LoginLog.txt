@@ -1,0 +1,19 @@
+1/27/2024 10:37:08 AM - Access denied: Restricted Access!
+1/27/2024 10:37:19 AM - Access denied: Restricted Access!
+1/27/2024 10:37:22 AM - Access denied: Restricted Access!
+1/27/2024 10:37:33 AM - Access denied: Restricted Access!
+1/27/2024 10:38:08 AM - Access denied: Restricted Access!
+1/27/2024 10:41:26 AM - Access granted: Technicians
+1/27/2024 10:41:41 AM - Access denied: Restricted Access!
+1/27/2024 11:11:34 AM - Access granted: Technicians
+1/27/2024 11:15:21 AM - Access denied: Restricted Access!
+1/27/2024 11:15:21 AM - Access denied: Restricted Access!
+1/27/2024 11:15:23 AM - Access denied: Restricted Access!
+1/27/2024 11:15:23 AM - Access denied: Restricted Access!
+1/27/2024 11:20:01 AM - Access denied: Restricted Access!
+1/27/2024 11:20:02 AM - Access denied: Restricted Access!
+1/27/2024 11:20:03 AM - Access denied: Restricted Access!
+1/27/2024 11:20:03 AM - Access denied: Restricted Access!
+1/27/2024 11:20:03 AM - Access denied: Restricted Access!
+1/27/2024 11:23:59 AM - Access denied: Restricted Access!
+1/27/2024 11:24:24 AM - Access denied: Restricted Access!

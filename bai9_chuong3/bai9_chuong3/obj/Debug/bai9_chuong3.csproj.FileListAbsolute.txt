@@ -1,0 +1,10 @@
+C:\Users\dtlam\OneDrive\Documents\Desktop\bai9_chuong3\bai9_chuong3\bin\Debug\bai9_chuong3.exe.config
+C:\Users\dtlam\OneDrive\Documents\Desktop\bai9_chuong3\bai9_chuong3\bin\Debug\bai9_chuong3.exe
+C:\Users\dtlam\OneDrive\Documents\Desktop\bai9_chuong3\bai9_chuong3\bin\Debug\bai9_chuong3.pdb
+C:\Users\dtlam\OneDrive\Documents\Desktop\bai9_chuong3\bai9_chuong3\obj\Debug\bai9_chuong3.csproj.AssemblyReference.cache
+C:\Users\dtlam\OneDrive\Documents\Desktop\bai9_chuong3\bai9_chuong3\obj\Debug\bai9_chuong3.Form1.resources
+C:\Users\dtlam\OneDrive\Documents\Desktop\bai9_chuong3\bai9_chuong3\obj\Debug\bai9_chuong3.Properties.Resources.resources
+C:\Users\dtlam\OneDrive\Documents\Desktop\bai9_chuong3\bai9_chuong3\obj\Debug\bai9_chuong3.csproj.GenerateResource.cache
+C:\Users\dtlam\OneDrive\Documents\Desktop\bai9_chuong3\bai9_chuong3\obj\Debug\bai9_chuong3.csproj.CoreCompileInputs.cache
+C:\Users\dtlam\OneDrive\Documents\Desktop\bai9_chuong3\bai9_chuong3\obj\Debug\bai9_chuong3.exe
+C:\Users\dtlam\OneDrive\Documents\Desktop\bai9_chuong3\bai9_chuong3\obj\Debug\bai9_chuong3.pdb
